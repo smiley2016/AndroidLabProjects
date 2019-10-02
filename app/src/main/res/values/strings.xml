@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">FirstLabApp</string>
     <string name="hello">Hello World!</string>
+    <string name="send">send</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="lastName">lastName</string>
+    <string name="firstName">firstName</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="department">Department</string>
+    <string name="calls_from_profile_activity">Calls from Profile Activity:</string>
+    <string name="calls_from_register_activity">Calls from Register Activity:</string>
 </resources>
